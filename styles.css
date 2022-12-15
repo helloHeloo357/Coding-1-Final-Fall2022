@@ -1,2 +1,20 @@
-.navbar navbar-expand-lg navbar-dark bg-dark
-{}
+.m{
+    background-color:ghostwhite
+}
+.card-title{
+    color: darkgray;
+}
+h1 {
+    color: green;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.b {
+    background-color: darkgrey;
+}
+h3{
+    text-align: center;
+    color: green;
+}
